@@ -1,0 +1,1 @@
+SG brainwave mahcine learning challenge. The training dataset contains a total of 17 featured variable and dependant variable "return". Using machine learning techniques, we have to predict annual returns. Accuracy metric used for this challenge was R squared of the model.
